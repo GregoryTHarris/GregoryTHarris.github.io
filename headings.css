@@ -1,0 +1,37 @@
+@charset "utf-8";
+.headings_list   {
+    color: #36FB0E;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: xx-large;
+}
+.paragraphs {
+    color: #020202;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: medium;
+    text-align: left;
+}
+
+.image_gray_border {
+    background-color: #498AC2;
+    border: thin solid #838C9B;
+}
+.menu_bar {
+    width: 100%;
+    text-align: center;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: #E19C65;
+    text-decoration: none;
+    display: inline;
+}
+.code_bar {
+    width: 100%;
+    display: inline;
+    text-decoration: none;
+    text-align: center;
+
+}
